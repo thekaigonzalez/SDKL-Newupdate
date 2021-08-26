@@ -1,0 +1,12 @@
+-- SDKL got some recent updates!
+-- you can download @ https://thekaigonzalez.github.io/mirrors/SDKL
+
+-- the new "end" update
+-- end has been replaced by wend
+
+
+func print_hello()
+   println("hello, world!")
+wend
+
+print_hello();
